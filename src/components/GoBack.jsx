@@ -17,6 +17,7 @@ const GoBack = () => {
 const IconBack = styled.img`
     width: 40px;
     cursor: pointer;
+    margin-top: -1.7rem;
 
 `
 export default GoBack

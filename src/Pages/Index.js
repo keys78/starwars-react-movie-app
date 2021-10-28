@@ -5,7 +5,6 @@ import Navbar from '../components/Navbar'
 const Index = () => {
     return (
         <div>
-            <Navbar />
             <MovieData />
         </div>
 
