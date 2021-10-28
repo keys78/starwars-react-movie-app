@@ -45,8 +45,6 @@ const MovieDataContainer = styled.section`
     background-image: url('images/cover14.jpg');
     width: 100vw;
     height: calc(100vh - 80px);
-    font-family: 'Kumbh Sans', sans-serif;
-    font-family: 'Lobster Two', cursive;
 `
 
 const LinkWrapper = styled(motion.div)`
